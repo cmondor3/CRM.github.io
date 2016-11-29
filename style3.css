@@ -1,0 +1,45 @@
+body {background:black;
+	  color:navy;
+	  font-family: arial;
+	  font-size: 15pt;
+	  }
+	  
+h1 {font-size: 250%;
+	color: white
+}
+
+nav li  {
+	     display: inline;
+         border: 2px dashed blue;
+		 background-color: white;
+		 
+}
+
+html {
+
+	display:inline-block;
+	border: 20px solid Darkblue;
+	background-color: black;
+	padding-left:200px;
+	padding-right:200px
+}
+body {background:white;
+	  color:blue;
+	  font-family: Impact;
+	  font-size: 15pt;
+	  padding-left:25px;
+	  padding-top: 25px
+	  }
+	  
+
+h2 {
+	color: navy;
+}
+h1 {
+	color: navy;
+	font-size: 30pt;
+	padding-left: 80px
+}
+img {
+	padding-left: 50px
+}

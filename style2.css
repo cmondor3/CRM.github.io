@@ -1,0 +1,29 @@
+body {background:gray;
+	  color:white;
+	  font-family: Andale Mono  ;
+	  font-size: 15pt;
+	  padding-left: 250px;
+	  padding-right: 250px
+	  }
+	  
+h1 {
+	color: white;
+	font-size: 30pt;
+	padding-left: 100px
+}
+
+nav li  {
+	     display: inline-block;
+		 padding: 10px;
+         border: 2px white;
+		 background-color: white
+}
+
+
+html {
+
+	display:inline-block;
+	border: 50px dashed black;
+	background-color:  gray;
+	padding:50px
+}

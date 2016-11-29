@@ -1,12 +1,10 @@
 body {background:navy;
 	  color:white;
-	  font-family: arial;
+	  font-family: Georgia;
 	  font-size: 15pt;
 	  }
 	  
-h1 {font-size: 250%;
-	color: white
-}
+
 
 nav li  {
 	     display: inline-block;
@@ -18,7 +16,14 @@ nav li  {
 html {
 
 	display:inline-block;
-	border: 2px solid white;
-	background-color: black;
+	border: 2px solid navy;
+	background-color: navy;
 	padding:100px
+}
+img {
+	padding-left: 200px
+}
+h2 {
+	font-size: 30pt;
+	padding-left: 150px
 }

@@ -1,0 +1,30 @@
+nav li  {
+	     display: inline-block;
+         border: 2px solid black;
+		 background-color: white;
+		
+}
+html {
+
+	display:inline-block;
+	border: 20px dashed purple;
+	background-color: black;
+	padding-left:200px;
+	padding-right:200px
+}
+body {background:purple;
+	  color:black;
+	  font-family: Courier New;
+	  font-size: 15pt;
+	  padding-left:100px;
+	  padding-right:50px;
+	  padding-top: 25px;
+	  padding-bottom: 25px
+	  }
+	  
+h1 {font-size: 250%;
+	color: black
+}
+h2 {
+	color: black
+}
