@@ -23,7 +23,7 @@ nav li  {
 html {
 
 	display:inline-block;
-	border: 50px dashed black;
-	background-color:  gray;
+	border: 50px solid black;
+	background-color:  silver;
 	padding:50px
 }
